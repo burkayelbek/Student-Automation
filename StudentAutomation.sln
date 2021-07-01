@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "Veritabani\DAL.csproj", "{0E4449E9-43D5-426B-BCA1-1AEF66DA7791}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentAutomation", "frmGiris\StudentAutomation.csproj", "{C1663746-FC85-4BC3-9685-B87A1A9BE62F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E4449E9-43D5-426B-BCA1-1AEF66DA7791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4449E9-43D5-426B-BCA1-1AEF66DA7791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4449E9-43D5-426B-BCA1-1AEF66DA7791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4449E9-43D5-426B-BCA1-1AEF66DA7791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1663746-FC85-4BC3-9685-B87A1A9BE62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1663746-FC85-4BC3-9685-B87A1A9BE62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1663746-FC85-4BC3-9685-B87A1A9BE62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1663746-FC85-4BC3-9685-B87A1A9BE62F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56639AB9-85DB-44A3-8C8E-E75CEFC51371}
+	EndGlobalSection
+EndGlobal

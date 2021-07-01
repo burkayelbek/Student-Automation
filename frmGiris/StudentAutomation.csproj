@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C1663746-FC85-4BC3-9685-B87A1A9BE62F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>frmGiris</RootNamespace>
+    <AssemblyName>frmGiris</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmLecturerExamPointOperations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLecturerExamPointOperations.Designer.cs">
+      <DependentUpon>frmLecturerExamPointOperations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLecturerMainOperations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLecturerMainOperations.Designer.cs">
+      <DependentUpon>frmLecturerMainOperations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddLecturer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddLecturer.Designer.cs">
+      <DependentUpon>frmAddLecturer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLecturerLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLecturerLogin.Designer.cs">
+      <DependentUpon>frmLecturerLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLecturerLessonOperations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLecturerLessonOperations.Designer.cs">
+      <DependentUpon>frmLecturerLessonOperations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLecturerStudentAbsenteeism.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLecturerStudentAbsenteeism.Designer.cs">
+      <DependentUpon>frmLecturerStudentAbsenteeism.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLecturerExamDateOperations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLecturerExamDateOperations.Designer.cs">
+      <DependentUpon>frmLecturerExamDateOperations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLecturerStudentOperations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLecturerStudentOperations.Designer.cs">
+      <DependentUpon>frmLecturerStudentOperations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentLogin.Designer.cs">
+      <DependentUpon>frmStudentLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentAbsenteeism.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentAbsenteeism.Designer.cs">
+      <DependentUpon>frmStudentAbsenteeism.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentOperations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentOperations.Designer.cs">
+      <DependentUpon>frmStudentOperations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentShowExamResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentShowExamResults.Designer.cs">
+      <DependentUpon>frmStudentShowExamResults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentExamDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentExamDate.Designer.cs">
+      <DependentUpon>frmStudentExamDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmLecturerExamPointOperations.resx">
+      <DependentUpon>frmLecturerExamPointOperations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLecturerMainOperations.resx">
+      <DependentUpon>frmLecturerMainOperations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddLecturer.resx">
+      <DependentUpon>frmAddLecturer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLecturerLogin.resx">
+      <DependentUpon>frmLecturerLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLecturerLessonOperations.resx">
+      <DependentUpon>frmLecturerLessonOperations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLecturerStudentAbsenteeism.resx">
+      <DependentUpon>frmLecturerStudentAbsenteeism.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLecturerExamDateOperations.resx">
+      <DependentUpon>frmLecturerExamDateOperations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLecturerStudentOperations.resx">
+      <DependentUpon>frmLecturerStudentOperations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentLogin.resx">
+      <DependentUpon>frmStudentLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentAbsenteeism.resx">
+      <DependentUpon>frmStudentAbsenteeism.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentOperations.resx">
+      <DependentUpon>frmStudentOperations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentShowExamResults.resx">
+      <DependentUpon>frmStudentShowExamResults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentExamDate.resx">
+      <DependentUpon>frmStudentExamDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Veritabani\DAL.csproj">
+      <Project>{0e4449e9-43d5-426b-bca1-1aef66da7791}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UserLogin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\studentLogin1.png" />
+    <None Include="Resources\teacherLogin.png" />
+    <Content Include="School.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="School_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>School.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

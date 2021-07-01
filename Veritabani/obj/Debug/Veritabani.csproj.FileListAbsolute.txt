@@ -1,0 +1,5 @@
+c:\users\burkay\documents\visual studio 2015\Projects\OgrenciOtomasyon\Veritabani\obj\Debug\Veritabani.csprojResolveAssemblyReference.cache
+c:\users\burkay\documents\visual studio 2015\Projects\OgrenciOtomasyon\Veritabani\bin\Debug\Veritabani.dll
+c:\users\burkay\documents\visual studio 2015\Projects\OgrenciOtomasyon\Veritabani\bin\Debug\Veritabani.pdb
+c:\users\burkay\documents\visual studio 2015\Projects\OgrenciOtomasyon\Veritabani\obj\Debug\Veritabani.dll
+c:\users\burkay\documents\visual studio 2015\Projects\OgrenciOtomasyon\Veritabani\obj\Debug\Veritabani.pdb

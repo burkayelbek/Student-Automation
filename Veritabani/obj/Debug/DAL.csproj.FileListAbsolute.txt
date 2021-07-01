@@ -1,0 +1,21 @@
+c:\users\burkay\documents\visual studio 2015\Projects\OgrenciOtomasyon\Veritabani\obj\Debug\Veritabani.dll
+c:\users\burkay\documents\visual studio 2015\Projects\OgrenciOtomasyon\Veritabani\obj\Debug\Veritabani.pdb
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\Veritabani\bin\Debug\Veritabani.dll
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\Veritabani\bin\Debug\Veritabani.pdb
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\Veritabani\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\Veritabani\bin\Debug\Veritabani.dll
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\Veritabani\bin\Debug\Veritabani.pdb
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\Veritabani\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\Veritabani\obj\Debug\Veritabani.dll
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\Veritabani\obj\Debug\Veritabani.pdb
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\Veritabani\bin\Debug\Veritabani.dll
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\Veritabani\bin\Debug\Veritabani.pdb
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\Veritabani\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\Veritabani\obj\Debug\Veritabani.dll
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\Veritabani\obj\Debug\Veritabani.pdb
+C:\Users\BURKAY\Downloads\Compressed\OgrenciOtomasyon_2\OgrenciOtomasyon\Veritabani\bin\Debug\Veritabani.dll
+C:\Users\BURKAY\Downloads\Compressed\OgrenciOtomasyon_2\OgrenciOtomasyon\Veritabani\bin\Debug\Veritabani.pdb
+C:\Users\BURKAY\Downloads\Compressed\OgrenciOtomasyon_2\OgrenciOtomasyon\Veritabani\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\BURKAY\Downloads\Compressed\OgrenciOtomasyon_2\OgrenciOtomasyon\Veritabani\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\BURKAY\Downloads\Compressed\OgrenciOtomasyon_2\OgrenciOtomasyon\Veritabani\obj\Debug\Veritabani.dll
+C:\Users\BURKAY\Downloads\Compressed\OgrenciOtomasyon_2\OgrenciOtomasyon\Veritabani\obj\Debug\Veritabani.pdb

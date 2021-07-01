@@ -1,0 +1,96 @@
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\bin\Debug\frmGiris.exe.config
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\bin\Debug\frmGiris.exe
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\bin\Debug\frmGiris.pdb
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\bin\Debug\Veritabani.dll
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\bin\Debug\Veritabani.pdb
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\OgrenciOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmGiris.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.Properties.Resources.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\OgrenciOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.exe
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.pdb
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenGiris.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenDersIslemleri.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenOgrenciIslemleri.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmOgrenciGiris.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenAnaIslemler.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenEkle.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenNotIslemleri.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenOgrenciDevamsizlik.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmOgrenciIslemler.resources
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\bin\Debug\frmGiris.exe.config
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.exe
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.pdb
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\bin\Debug\frmGiris.exe
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\bin\Debug\frmGiris.pdb
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\bin\Debug\Veritabani.dll
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\bin\Debug\Veritabani.pdb
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\obj\Debug\OgrenciOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenNotIslemleri.resources
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenAnaIslemler.resources
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenEkle.resources
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenGiris.resources
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenDersIslemleri.resources
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenOgrenciDevamsizlik.resources
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenSinavTarihleri.resources
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmGiris.resources
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenOgrenciIslemleri.resources
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmOgrenciGiris.resources
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmOgrenciDevamsizlik.resources
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmOgrenciIslemler.resources
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.Properties.Resources.resources
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\obj\Debug\OgrenciOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmOgrenciNotGoruntuleme.resources
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmOgrenciSinavTarihi.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\bin\Debug\frmGiris.exe.config
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.exe
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.pdb
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\bin\Debug\frmGiris.exe
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\bin\Debug\frmGiris.pdb
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\bin\Debug\Veritabani.dll
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\bin\Debug\Veritabani.pdb
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\obj\Debug\OgrenciOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenNotIslemleri.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenAnaIslemler.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenEkle.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenGiris.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenDersIslemleri.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenOgrenciDevamsizlik.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenSinavTarihleri.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmGiris.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenOgrenciIslemleri.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmOgrenciGiris.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmOgrenciDevamsizlik.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmOgrenciIslemler.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmOgrenciNotGoruntuleme.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmOgrenciSinavTarihi.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.Properties.Resources.resources
+C:\Users\Burkay\Documents\Visual Studio 2015\OgrenciOtomasyon\frmGiris\obj\Debug\OgrenciOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\bin\Debug\School.mdf
+C:\Users\Burkay\Desktop\OgrenciOtomasyon\frmGiris\bin\Debug\School_log.ldf
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\bin\Debug\frmGiris.exe.config
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.exe
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.pdb
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\bin\Debug\School.mdf
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\bin\Debug\School_log.ldf
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\bin\Debug\frmGiris.exe
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\bin\Debug\frmGiris.pdb
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\bin\Debug\Veritabani.dll
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\bin\Debug\Veritabani.pdb
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\obj\Debug\OgrenciOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenNotIslemleri.resources
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenAnaIslemler.resources
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenEkle.resources
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenGiris.resources
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenDersIslemleri.resources
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenOgrenciDevamsizlik.resources
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenSinavTarihleri.resources
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmGiris.resources
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmAkademisyenOgrenciIslemleri.resources
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmOgrenciGiris.resources
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmOgrenciDevamsizlik.resources
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmOgrenciIslemler.resources
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmOgrenciNotGoruntuleme.resources
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmOgrenciSinavTarihi.resources
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.Properties.Resources.resources
+C:\Users\Burkay\Desktop\BitirmeP2 (GömülüDB)\OgrenciOtomasyon\frmGiris\obj\Debug\OgrenciOtomasyonu.csproj.GenerateResource.Cache

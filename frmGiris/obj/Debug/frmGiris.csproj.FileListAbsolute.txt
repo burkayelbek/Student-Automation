@@ -1,0 +1,13 @@
+c:\users\burkay\documents\visual studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.csprojResolveAssemblyReference.cache
+c:\users\burkay\documents\visual studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.Properties.Resources.resources
+c:\users\burkay\documents\visual studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.csproj.GenerateResource.Cache
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\bin\Debug\frmGiris.exe.config
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\bin\Debug\frmGiris.exe
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\bin\Debug\frmGiris.pdb
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\bin\Debug\Veritabani.dll
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\bin\Debug\Veritabani.pdb
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.exe
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.pdb
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\bin\Debug\frmAna.exe
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\bin\Debug\frmAna.pdb
+C:\Users\Burkay\Documents\Visual Studio 2015\Projects\OgrenciOtomasyon\frmGiris\obj\Debug\frmGiris.frmGiris.resources
